@@ -5,7 +5,7 @@ from aiogram.filters import Command
 import asyncio
 
 # Создание бота и диспетчера
-TOKEN = "7029487272:AAFbmabk1RRvz30MzkYUuBNKguyxcHuDNAQ"
+TOKEN = "<TOKEN>"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
